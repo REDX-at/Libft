@@ -1,4 +1,7 @@
 # Libft - 1337 (42 Network)
+
+![Libft 42](https://github.com/REDX-at/Libft/blob/master/images/libft%2042.png)
+
 Libft is a fundamental project at 1337 (42 Network), where students create their own standard C library. This project is designed to help students solidify their understanding of core C functions by implementing them from scratch, while adhering to memory management best practices.
 
 ## Introduction
@@ -28,7 +31,3 @@ Memory-Efficient: Careful management of resources to prevent memory leaks and en
 ### Contact
 For any questions or feedback, feel free to reach out to me at taoussi.aimen@gmail.com or visit my GitHub profile at GitHub.
 
-
-
-
-![Libft 42](https://github.com/REDX-at/Libft/blob/master/images/libft%2042.png)
