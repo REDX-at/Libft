@@ -31,4 +31,4 @@ For any questions or feedback, feel free to reach out to me at taoussi.aimen@gma
 
 
 
-![Dining Philosophers](https://sphof.readthedocs.io/_images/philtable.png)
+![Libft 42](https://github.com/REDX-at/Libft/blob/master/images/libft%2042.png)
